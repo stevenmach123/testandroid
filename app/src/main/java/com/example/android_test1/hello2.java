@@ -6,7 +6,5 @@ public class hello2 {
 
         System.out.print("hello2 system game");
         System.out.print("hello2 system chess");
-        System.out.println("hello2 system 2");
-
     }
 }

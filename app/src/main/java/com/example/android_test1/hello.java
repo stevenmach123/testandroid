@@ -6,9 +6,7 @@ public class hello {
         System.out.println("hello system 2");
 
         System.out.println("hello system gmae");
-        System.out.println("hello system 3");
-        System.out.println("hello system 3");
-        System.out.println("hello system 2 bring the power");
+
 
     }
 }
